@@ -21,7 +21,7 @@ Este Pokédex fue hecho en ReactJS . Inicialmente, el modelo de la aplicación s
 
 ## 📌 Links 
  - [Deploy]()
- - [Vite](https://vitejs.dev/)
+ - [Vite](https://pokedex-eight-dun.vercel.app/)
  - [Styled Components](https://styled-components.com/)
  - [Boopstrap](https://getbootstrap.com/)
  - [PokéAPI](https://pokeapi.co/)
