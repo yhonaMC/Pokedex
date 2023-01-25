@@ -20,7 +20,7 @@ Este Pokédex fue hecho en ReactJS . Inicialmente, el modelo de la aplicación s
 - API: PokéApi
 
 ## 📌 Links 
- - [Deploy]()
+ - [Deploy](https://pokedex-eight-dun.vercel.app/)
  - [Vite](https://vitejs.dev/)
  - [Styled Components](https://styled-components.com/)
  - [Boopstrap](https://getbootstrap.com/)
