@@ -1,0 +1,105 @@
+body {
+  background: #212529;
+}
+
+/* font */
+
+@font-face {
+  font-family: "Aero";
+  src: url("./assets/Fonts/Aero.ttf");
+}
+
+@font-face {
+  font-family: "OldSansBlack";
+  src: url("./assets/Fonts/OldSansBlack.ttf");
+}
+
+* {
+  font-family: "Aero";
+  margin: 0;
+  padding: 0;
+}
+
+.text-white {
+  color: white;
+}
+
+/* Center Components */
+
+.center-childrens {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -40px;
+}
+
+/* Header */
+
+.container-header {
+  background-color: #ff3936;
+  color: white;
+  padding: 10px 0;
+}
+
+/* form */
+
+.center-form {
+  margin-top: 10%;
+}
+
+.form {
+  padding-left: 50px;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.btn {
+  background: #ff3936;
+  text-align: center !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Colors */
+
+:root {
+  --brand_dark: #212529;
+  --brand_green: #13ce66;
+  --brand_pink: #fe8bc4;
+  --brand_red: #ff0000;
+  --brand_yellow: #ffcb2c;
+  --brand_orange: #fd7d24;
+
+  --darkest_gray: #333333;
+  --darker_gray: #666666;
+  --dark_gray: #444444;
+  --brand_gray: #c2c2c2;
+  --light_gray: #dddddd;
+  --lighter_gray: #eeeeee;
+  --lightest_gray: #f2f2f2;
+
+  --default_rgba: rgba(238, 129, 48, 0.00001);
+  --normal: #00b38a;
+  --fire: #ee8130;
+  --water: #6390f0;
+  --electric: #f7d02c;
+  --grass: #7ac74c;
+  --ice: #96d9d6;
+  --fighting: #c22e28;
+  --poison: #a33ea1;
+  --ground: #e2bf65;
+  --flying: #a98ff3;
+  --psychic: #f95587;
+  --bug: #a6b91a;
+  --rock: #b6a136;
+  --ghost: #735797;
+  --dragon: #6f35fc;
+  --dark: #705746;
+  --steel: #b7b7ce;
+  --fairy: #d685ad;
+
+  --card_gray: #495057;
+}
