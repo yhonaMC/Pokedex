@@ -50,7 +50,7 @@
 .pokemon-number {
   margin-top: 4px;
   color: var(--lightest_gray);
-  font-size: 1.3em;
+  font-size: 1em;
 }
 
 @keyframes updown {
@@ -742,9 +742,19 @@
   }
 }
 
+/* Container card query */
 @media (max-width: 1999px) {
   .container-card {
     width: 500px;
+  }
+}
+
+@media (max-width: 850px) {
+  .container-card {
+    width: 370px;
+  }
+  .abilities {
+    font-size: 1em;
   }
 }
 
@@ -809,13 +819,18 @@
   }
 }
 
-@media (max-width: 896px) {
+/* @media (max-width: 896px) {
   .form {
     padding-right: 10%;
   }
-}
+} */
 
 @media (max-width: 970px) {
+  /* .form {
+    width: 100%;
+    margin-right: 12%;
+  } */
+
   .container-fire::after {
     padding-right: 10%;
   }

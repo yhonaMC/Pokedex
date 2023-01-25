@@ -49,11 +49,11 @@ const Cards = ({ data }) => {
           </div>
 
           <div className="text-center d-flex justify-content-between aling-item-center">
-            <p className="pokemon-number mb-0 me-4">Abilities:</p>
+            <p className="pokemon-number mb-0 me-4 ">Abilities:</p>
             {data &&
               data.abilities?.map((item, index) => (
                 <ul key={index}>
-                  <li className={"mt-1 text-white pokemon-number"}>
+                  <li className={"mt-1 text-white pokemon-number abilities"}>
                     {item.ability.name}
                   </li>
                 </ul>
