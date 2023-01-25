@@ -69,6 +69,15 @@
   animation: updown 1s ease infinite;
 }
 
+/* Loader */
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20%;
+}
+
 /* Colors types */
 .normal {
   background-color: var(--normal);
@@ -751,7 +760,7 @@
 
 @media (max-width: 850px) {
   .container-card {
-    width: 500px;
+    width: 370px;
   }
   .abilities {
     font-size: 1em;

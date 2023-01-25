@@ -54,6 +54,7 @@ input[type="number"]::-webkit-outer-spin-button {
   text-align: center !important;
   outline: none !important;
   box-shadow: none !important;
+  width: 50%;
 }
 
 /* Colors */
@@ -106,6 +107,12 @@ input[type="number"]::-webkit-outer-spin-button {
   }
 }
 
+@media (max-width: 990px) {
+  .btn {
+    margin-right: 15%;
+  }
+}
+
 @media (max-width: 1000px) {
   .input-div {
     margin-left: 5%;
@@ -117,5 +124,8 @@ input[type="number"]::-webkit-outer-spin-button {
   .input-div {
     margin-left: 8%;
     width: 85%;
+  }
+  .btn {
+    margin-right: 8%;
   }
 }
