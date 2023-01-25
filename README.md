@@ -23,5 +23,5 @@ Este Pokédex fue hecho en ReactJS . Inicialmente, el modelo de la aplicación s
  - [Deploy]()
  - [Vite](https://vitejs.dev/)
  - [Styled Components](https://styled-components.com/)
- - [BOOPSTRAP](https://getbootstrap.com/)
+ - [Boopstrap](https://getbootstrap.com/)
  - [PokéAPI](https://pokeapi.co/)
