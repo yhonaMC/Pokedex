@@ -18,6 +18,8 @@ Este Pokédex fue hecho en ReactJS . Inicialmente, el modelo de la aplicación s
 - Styled-components
 - Boopstrap
 - API: PokéApi
+- useForm-react-hook
+- React-toastify
 
 ## 📌 Links 
  - [Deploy](https://timely-macaron-a270fb.netlify.app/)
@@ -27,25 +29,25 @@ Este Pokédex fue hecho en ReactJS . Inicialmente, el modelo de la aplicación s
  - [PokéAPI](https://pokeapi.co/)
 
 ## 📝 Historias de usuarios
--como usuario de la app quiero poder seleccionar el botón enviar”
-o	Task: Construir el mockup del botón
-o	Task: Definir enpoint del botón
-o	Task: Desarrollar el botón
-o	Task: Lanzar el pull request
--Como usuario de la app deseo poder consultar un personaje de la serie, ya sea por nombre o id.
-o	Task: Construir el mockup de los input con nombre nombre y id
-o	Task: Crear formulario para consultar pokemon ya sea por ID o por nombre en diferentes campos
-o	Task: Definir el endpoint para ambos inputs
-o	Task: Lanzar el pull request
--Como usuario de la app deseo poder ingresar desde mi teléfono Móvil
-o	Task: Investigar y analizar diferentes métodos de autenticación para dispositivos móviles.
-o	Task: Diseñar un plan de autenticación para la aplicación
-o	Task: Asegurar que el proceso de autenticación sea sencillo y fácil de seguir para los usuarios
-o	Task: lanzar el pull request
--Como usuario de la app quiero que la interfaz sea intuitiva.
-o	Task: Investigar y analizar diferentes diseños de interfaces de aplicaciones móviles para identificar tendencias y mejores prácticas.
-o	Task: Crear un plan de diseño para la interfaz de la aplicación, incluyendo elementos como navegación, iconos y botones.
-o	Task: Diseñar una versión inicial de la interfaz y realizar pruebas con usuarios para obtener retroalimentación.
-o	Task: Implementar el diseño final de la interfaz en el desarrollo de la aplicación.
-o	Task:Realizar pruebas de usuario para asegurar que la interfaz es intuitiva.
-o	Task: lanzar el pull request
+#como usuario de la app quiero poder seleccionar el botón enviar”
+-	Task: Construir el mockup del botón
+-	Task: Definir enpoint del botón
+-	Task: Desarrollar el botón
+-	Task: Lanzar el pull request
+#Como usuario de la app deseo poder consultar un personaje de la serie, ya sea por nombre o id.
+-	Task: Construir el mockup de los input con nombre nombre y id
+-	Task: Crear formulario para consultar pokemon ya sea por ID o por nombre en diferentes campos
+-	Task: Definir el endpoint para ambos inputs
+-	Task: Lanzar el pull request
+#Como usuario de la app deseo poder ingresar desde mi teléfono Móvil
+-	Task: Investigar y analizar diferentes métodos de autenticación para dispositivos móviles.
+-	Task: Diseñar un plan de autenticación para la aplicación
+-	Task: Asegurar que el proceso de autenticación sea sencillo y fácil de seguir para los usuarios
+-	Task: lanzar el pull request
+#Como usuario de la app quiero que la interfaz sea intuitiva.
+-	Task: Investigar y analizar diferentes diseños de interfaces de aplicaciones móviles para identificar tendencias y mejores prácticas.
+-	Task: Crear un plan de diseño para la interfaz de la aplicación, incluyendo elementos como navegación, iconos y botones.
+-	Task: Diseñar una versión inicial de la interfaz y realizar pruebas con usuarios para obtener retroalimentación.
+-	Task: Implementar el diseño final de la interfaz en el desarrollo de la aplicación.
+-	Task:Realizar pruebas de usuario para asegurar que la interfaz es intuitiva.
+-	Task: lanzar el pull request
