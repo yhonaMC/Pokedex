@@ -29,13 +29,13 @@ Este Pokédex fue hecho en ReactJS . Inicialmente, el modelo de la aplicación s
  - [PokéAPI](https://pokeapi.co/)
 
 ## 📝 Historias de usuarios
-   ##  como usuario de la app quiero poder seleccionar el botón enviar”
+## Como usuario de la app quiero poder seleccionar el botón enviar”
 -	Task: Construir el mockup del botón
 -	Task: Definir enpoint del botón
 -	Task: Desarrollar el botón
 -	Task: Lanzar el pull request
 -	
-  ## Como usuario de la app deseo poder consultar un personaje de la serie, ya sea por nombre o id.
+ ## Como usuario de la app deseo poder consultar un personaje de la serie, ya sea por nombre o id.
 -	Task: Construir el mockup de los input con nombre nombre y id
 -	Task: Crear formulario para consultar pokemon ya sea por ID o por nombre en diferentes campos
 -	Task: Definir el endpoint para ambos inputs
